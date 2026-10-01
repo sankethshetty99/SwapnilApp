@@ -1,1 +1,321 @@
-{"asOf": "Oct 1, 2026", "currentBalance": 131.04, "months": [{"balance": 0.0, "items": [["Flat monthly estimate \u2014 no bill statement available", 30.0]], "label": "Jan 2025", "notes": ["No T-Mobile statement exists before Mar 2025, so this month stays at the flat $30 estimate. No payment was recorded."], "owed": 30.0, "paid": 0.0}, {"balance": 30.0, "items": [["Flat monthly estimate \u2014 no bill statement available", 30.0]], "label": "Feb 2025", "notes": ["No payment was recorded."], "owed": 30.0, "paid": 0.0}, {"balance": 120.0, "items": [["Flat monthly estimate", 30.0], ["March 2025 bill \u2014 your number", 30.0], ["March 2025 bill \u2014 Aishwarya's number (your wife)", 30.0]], "label": "Mar 2025", "notes": ["The March bill put both of your numbers outside the shared pool at $30 each. No payment was recorded."], "owed": 90.0, "paid": 0.0}, {"balance": 190.0, "items": [["April 2025 bill \u2014 your number", 35.0], ["April 2025 bill \u2014 Aishwarya's number (your wife)", 35.0]], "label": "Apr 2025", "notes": ["Both numbers billed outside the shared pool at $35 each. No payment was recorded."], "owed": 70.0, "paid": 0.0}, {"balance": 260.0, "items": [["May 2025 bill \u2014 your number", 35.0], ["May 2025 bill \u2014 Aishwarya's number (your wife)", 35.0]], "label": "May 2025", "notes": ["No payment was recorded."], "owed": 70.0, "paid": 0.0}, {"balance": 330.0, "items": [["June 2025 bill \u2014 your number", 35.0], ["June 2025 bill \u2014 Aishwarya's number (your wife)", 35.0]], "label": "Jun 2025", "notes": ["No payment was recorded."], "owed": 70.0, "paid": 0.0}, {"balance": 23.0, "items": [["July 2025 bill \u2014 your number", 35.0], ["July 2025 bill \u2014 Aishwarya's number (your wife)", 35.0]], "label": "Jul 2025", "notes": ["You paid $64 + $313 this month \u2014 the big catch-up that cleared most of the backlog."], "owed": 70.0, "paid": 377.0}, {"balance": 25.11, "items": [["Shared plan \u2014 your number in the pool (1 \u00d7 $31.11)", 31.11], ["Aishwarya's number \u2014 billed outside the pool", 35.0]], "label": "Aug 2025", "notes": ["Your number moved into the shared pool this month."], "owed": 66.11, "paid": 64.0}, {"balance": 31.22, "items": [["Shared plan \u2014 your number in the pool (1 \u00d7 $31.11)", 31.11], ["Aishwarya's number \u2014 billed outside the pool", 35.0], ["Roaming on your numbers", 4.0]], "label": "Sep 2025", "owed": 70.11, "paid": 64.0}, {"balance": 36.73, "items": [["Shared plan \u2014 your number in the pool (1 \u00d7 $31.11)", 31.11], ["Aishwarya's number \u2014 billed outside the pool", 35.0], ["Roaming, fees & taxes on your numbers", 3.4]], "label": "Oct 2025", "owed": 69.51, "paid": 64.0}, {"balance": 43.2, "items": [["Shared plan \u2014 your number in the pool (1 \u00d7 $31.11)", 31.11], ["Aishwarya's number \u2014 billed outside the pool", 35.0], ["Roaming, fees & taxes on your numbers", 4.36]], "label": "Nov 2025", "owed": 70.47, "paid": 64.0}, {"balance": 77.2, "items": [["Shared plan \u2014 Aishwarya's number in the pool (1 \u00d7 $28.00)", 28.0], ["Plan charge on your number \u2014 billed outside the pool", 70.0]], "label": "Dec 2025", "notes": ["Your number's $70 plan charge was itemized outside the shared pool, so it was assigned to you directly. This is the $98 month."], "owed": 98.0, "paid": 64.0}, {"balance": 84.44, "items": [["Shared plan \u2014 both numbers in the pool (2 \u00d7 $35.62)", 71.24]], "label": "Jan 2026", "notes": ["Both numbers pooled this month, including Aishwarya's $70 additional line."], "owed": 71.24, "paid": 64.0}, {"balance": 79.78, "items": [["Shared plan \u2014 both numbers in the pool (2 \u00d7 $29.67)", 59.34]], "label": "Feb 2026", "notes": ["A lighter bill \u2014 the pool dropped after a mid-cycle credit. You overpaid by $4.66."], "owed": 59.34, "paid": 64.0}, {"balance": 80.02, "items": [["Shared plan \u2014 both numbers in the pool (2 \u00d7 $32.12)", 64.24]], "label": "Mar 2026", "owed": 64.24, "paid": 64.0}, {"balance": 80.24, "items": [["Shared plan \u2014 both numbers in the pool (2 \u00d7 $32.11)", 64.22]], "label": "Apr 2026", "owed": 64.22, "paid": 64.0}, {"balance": 61.46, "items": [["Shared plan \u2014 both numbers in the pool (2 \u00d7 $32.11)", 64.22]], "label": "May 2026", "notes": ["You overpaid by $18.78 this month."], "owed": 64.22, "paid": 83.0}, {"balance": 125.68, "items": [["Shared plan \u2014 both numbers in the pool (2 \u00d7 $32.11)", 64.22]], "label": "Jun 2026", "notes": ["No payment recorded \u2014 this is the month the balance jumped."], "owed": 64.22, "paid": 0.0}, {"balance": 128.24, "items": [["Shared plan \u2014 both numbers in the pool (2 \u00d7 $34.78)", 69.56]], "label": "Jul 2026", "owed": 69.56, "paid": 67.0}, {"balance": 131.04, "items": [["Shared plan \u2014 both numbers in the pool (2 \u00d7 $34.90)", 69.8]], "label": "Aug 2026", "notes": ["Your Aug 15 payment of $67 brought the balance down to $61.24 before this bill posted. No payment yet against the August bill \u2014 that plus September's bill (~$70) is what you owe now."], "owed": 69.8, "paid": 0.0, "midPayment": {"label": "Aug 15 payment", "amount": 67.0, "balance": 61.24}}]}
+{
+ "asOf": "Oct 1, 2026",
+ "currentBalance": 63.08,
+ "months": [
+  {
+   "balance": 0.0,
+   "items": [
+    [
+     "Flat monthly estimate \u2014 no bill statement available",
+     30.0
+    ]
+   ],
+   "label": "Jan 2025",
+   "notes": [
+    "No T-Mobile statement exists before Mar 2025, so this month stays at the flat $30 estimate. No payment was recorded."
+   ],
+   "owed": 30.0,
+   "paid": 0.0
+  },
+  {
+   "balance": 30.0,
+   "items": [
+    [
+     "Flat monthly estimate \u2014 no bill statement available",
+     30.0
+    ]
+   ],
+   "label": "Feb 2025",
+   "notes": [
+    "No payment was recorded."
+   ],
+   "owed": 30.0,
+   "paid": 0.0
+  },
+  {
+   "balance": 118.5,
+   "items": [
+    [
+     "Flat monthly estimate",
+     30.0
+    ],
+    [
+     "March 2025 bill \u2014 voice pool, 2 lines (yours + Aishwarya's)",
+     58.5
+    ]
+   ],
+   "label": "Mar 2025",
+   "notes": [
+    "Corrected Oct 2026: every voice-line charge now splits across all 12 lines ($351 pool \u00f7 12 = $29.25 each), including the $30 + $30 + $51 T-Mobile itemized outside its pool. Your 2 lines: $58.50. No payment was recorded."
+   ],
+   "owed": 88.5,
+   "paid": 0.0
+  },
+  {
+   "balance": 182.66,
+   "items": [
+    [
+     "April 2025 bill \u2014 voice pool, 2 lines \u00d7 $32.08",
+     64.16
+    ]
+   ],
+   "label": "Apr 2025",
+   "notes": [
+    "Corrected Oct 2026: $385 pool \u00f7 12 lines = $32.08 each (was $35 + $35 billed outside the pool). No payment was recorded."
+   ],
+   "owed": 64.16,
+   "paid": 0.0
+  },
+  {
+   "balance": 246.82,
+   "items": [
+    [
+     "May 2025 bill \u2014 voice pool, 2 lines \u00d7 $32.08",
+     64.16
+    ]
+   ],
+   "label": "May 2025",
+   "notes": [
+    "Corrected Oct 2026: $385 pool \u00f7 12 lines. No payment was recorded."
+   ],
+   "owed": 64.16,
+   "paid": 0.0
+  },
+  {
+   "balance": 310.98,
+   "items": [
+    [
+     "June 2025 bill \u2014 voice pool, 2 lines \u00d7 $32.08",
+     64.16
+    ]
+   ],
+   "label": "Jun 2025",
+   "notes": [
+    "Corrected Oct 2026: $385 pool \u00f7 12 lines. No payment was recorded."
+   ],
+   "owed": 64.16,
+   "paid": 0.0
+  },
+  {
+   "balance": -1.86,
+   "items": [
+    [
+     "July 2025 bill \u2014 voice pool, 2 lines \u00d7 $32.08",
+     64.16
+    ]
+   ],
+   "label": "Jul 2025",
+   "notes": [
+    "Corrected Oct 2026: $385 pool \u00f7 12 lines. You paid $64 + $313 this month \u2014 the big catch-up that cleared most of the backlog."
+   ],
+   "owed": 64.16,
+   "paid": 377.0
+  },
+  {
+   "balance": -2.24,
+   "items": [
+    [
+     "August 2025 bill \u2014 voice pool, 2 lines \u00d7 $31.81",
+     63.62
+    ]
+   ],
+   "label": "Aug 2025",
+   "notes": [
+    "Corrected Oct 2026: $350 pool \u00f7 11 lines = $31.81 each. Aishwarya's $35 line now pooled instead of billed to you directly."
+   ],
+   "owed": 63.62,
+   "paid": 64.0
+  },
+  {
+   "balance": 1.38,
+   "items": [
+    [
+     "September 2025 bill \u2014 voice pool, 2 lines \u00d7 $31.81",
+     63.62
+    ],
+    [
+     "Roaming on your numbers",
+     4.0
+    ]
+   ],
+   "label": "Sep 2025",
+   "owed": 67.62,
+   "paid": 64.0,
+   "notes": [
+    "Corrected Oct 2026: $350 pool \u00f7 11 lines, plus $4.00 roaming on your lines."
+   ]
+  },
+  {
+   "balance": 4.4,
+   "items": [
+    [
+     "October 2025 bill \u2014 voice pool, 2 lines \u00d7 $31.81",
+     63.62
+    ],
+    [
+     "Roaming, fees & taxes on your numbers",
+     3.4
+    ]
+   ],
+   "label": "Oct 2025",
+   "owed": 67.02,
+   "paid": 64.0,
+   "notes": [
+    "Corrected Oct 2026: $350 pool \u00f7 11 lines, plus $3.40 roaming/fees on your lines."
+   ]
+  },
+  {
+   "balance": 8.38,
+   "items": [
+    [
+     "November 2025 bill \u2014 voice pool, 2 lines \u00d7 $31.81",
+     63.62
+    ],
+    [
+     "Roaming, fees & taxes on your numbers",
+     4.36
+    ]
+   ],
+   "label": "Nov 2025",
+   "owed": 67.98,
+   "paid": 64.0,
+   "notes": [
+    "Corrected Oct 2026: $350 pool \u00f7 11 lines, plus $4.36 roaming/fees on your lines."
+   ]
+  },
+  {
+   "balance": 8.0,
+   "items": [
+    [
+     "December 2025 bill \u2014 voice pool, 2 lines \u00d7 $31.81",
+     63.62
+    ]
+   ],
+   "label": "Dec 2025",
+   "notes": [
+    "Corrected Oct 2026: $350 pool \u00f7 11 lines. Your number's $70 plan charge now splits across all 11 lines instead of landing on you directly \u2014 this was the $98 month, now $63.62."
+   ],
+   "owed": 63.62,
+   "paid": 64.0
+  },
+  {
+   "balance": 15.24,
+   "items": [
+    [
+     "Shared plan \u2014 both numbers in the pool (2 \u00d7 $35.62)",
+     71.24
+    ]
+   ],
+   "label": "Jan 2026",
+   "notes": [
+    "Both numbers pooled this month, including Aishwarya's $70 additional line."
+   ],
+   "owed": 71.24,
+   "paid": 64.0
+  },
+  {
+   "balance": 10.58,
+   "items": [
+    [
+     "Shared plan \u2014 both numbers in the pool (2 \u00d7 $29.67)",
+     59.34
+    ]
+   ],
+   "label": "Feb 2026",
+   "notes": [
+    "A lighter bill \u2014 the pool dropped after a mid-cycle credit. You overpaid by $4.66."
+   ],
+   "owed": 59.34,
+   "paid": 64.0
+  },
+  {
+   "balance": 10.82,
+   "items": [
+    [
+     "Shared plan \u2014 both numbers in the pool (2 \u00d7 $32.12)",
+     64.24
+    ]
+   ],
+   "label": "Mar 2026",
+   "owed": 64.24,
+   "paid": 64.0
+  },
+  {
+   "balance": 11.04,
+   "items": [
+    [
+     "Shared plan \u2014 both numbers in the pool (2 \u00d7 $32.11)",
+     64.22
+    ]
+   ],
+   "label": "Apr 2026",
+   "owed": 64.22,
+   "paid": 64.0
+  },
+  {
+   "balance": -7.74,
+   "items": [
+    [
+     "Shared plan \u2014 both numbers in the pool (2 \u00d7 $32.11)",
+     64.22
+    ]
+   ],
+   "label": "May 2026",
+   "notes": [
+    "You overpaid by $18.78 this month."
+   ],
+   "owed": 64.22,
+   "paid": 83.0
+  },
+  {
+   "balance": 56.48,
+   "items": [
+    [
+     "Shared plan \u2014 both numbers in the pool (2 \u00d7 $32.11)",
+     64.22
+    ]
+   ],
+   "label": "Jun 2026",
+   "notes": [
+    "No payment recorded \u2014 this is the month the balance jumped."
+   ],
+   "owed": 64.22,
+   "paid": 0.0
+  },
+  {
+   "balance": 60.28,
+   "items": [
+    [
+     "July 2026 bill \u2014 voice pool, 2 lines \u00d7 $35.40",
+     70.8
+    ]
+   ],
+   "label": "Jul 2026",
+   "owed": 70.8,
+   "paid": 67.0,
+   "notes": [
+    "Corrected Oct 2026: $354 pool \u00f7 10 lines. Abhishek's $41 line now pooled."
+   ]
+  },
+  {
+   "balance": 63.08,
+   "items": [
+    [
+     "Shared plan \u2014 both numbers in the pool (2 \u00d7 $34.90)",
+     69.8
+    ]
+   ],
+   "label": "Aug 2026",
+   "notes": [
+    "Your Aug 15 payment of $67 is now counted in this month's payments (it was missing before). It brought the balance to $61.24 before this bill posted. No payment yet against the August bill."
+   ],
+   "owed": 69.8,
+   "paid": 67.0,
+   "midPayment": {
+    "label": "Aug 15 payment",
+    "amount": 67.0,
+    "balance": 61.24
+   }
+  }
+ ]
+}
