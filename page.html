@@ -122,6 +122,9 @@ function monthPanel(m, i) {
 }
 
 let tabsHtml = `<button class="tab active" data-p="p-overview">All months</button>`;
+// Header always reflects the data, never a hardcoded snapshot.
+document.getElementById('curBal').textContent = money(DATA.currentBalance);
+document.getElementById('asOf').textContent = 'as of ' + DATA.asOf;
 DATA.months.forEach((m, i) => { tabsHtml += `<button class="tab" data-p="p-${i}">${m.label}</button>`; });
 tabsEl.innerHTML = tabsHtml;
 panelsEl.innerHTML = overviewPanel() + DATA.months.map(monthPanel).join('');
